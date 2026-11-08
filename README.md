@@ -21,6 +21,25 @@
 
 <br>
 
+## 👋 &nbsp;About
+
+I'm **Kain** (Claudio Poli), founder of **[iCoreTech, Inc.](https://github.com/icoretech)**, a small studio building media platforms, infrastructure tools and carefully shipped software since 2009.
+
+I work across Ruby, TypeScript, Go, Swift, Elixir, Python, Objective-C and Terraform, on Kubernetes and GitOps, and I still write the code.
+
+Open to conversations about senior engineering and technical leadership work. Email is the fastest way to reach me.
+
+<br>
+
+## 🔑 &nbsp;Identity
+
+My **PGP key**: [`915D C480 9352 5AB2`](https://github.com/masterkain.gpg) `(master key)`
+
+- `Claudio Poli <masterkain@gmail.com>`
+- Fingerprint: `65A2 21AD 2A68 4489 A8D0 DA8E 915D C480 9352 5AB2`
+
+<br>
+
 ## 🪐 &nbsp;In orbit
 
 Eight open-source projects from [iCoreTech](https://github.com/icoretech), each with a year of commits. Tap a card to open the repository.
@@ -179,25 +198,6 @@ Eight open-source projects from [iCoreTech](https://github.com/icoretech), each 
 <sub>Commits count every author on the default branch. Releases are published GitHub releases, prereleases included. Updated 2026-11-08.</sub>
 
 </details>
-
-<br>
-
-## 👋 &nbsp;About
-
-I'm **Kain** (Claudio Poli), founder of **[iCoreTech, Inc.](https://github.com/icoretech)**, a small studio building media platforms, infrastructure tools and carefully shipped software since 2009.
-
-I work across Ruby, TypeScript, Go, Swift, Elixir, Python, Objective-C and Terraform, on Kubernetes and GitOps, and I still write the code.
-
-Open to conversations about senior engineering and technical leadership work. Email is the fastest way to reach me.
-
-<br>
-
-## 🔑 &nbsp;Identity
-
-My **PGP key**: [`915D C480 9352 5AB2`](https://github.com/masterkain.gpg) `(master key)`
-
-- `Claudio Poli <masterkain@gmail.com>`
-- Fingerprint: `65A2 21AD 2A68 4489 A8D0 DA8E 915D C480 9352 5AB2`
 
 <br>
 
