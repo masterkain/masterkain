@@ -13,6 +13,7 @@
 </a>
 
 <p align="center">
+  <a href="https://icorete.ch"><b>icorete.ch</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/icoretech"><b>iCoreTech on GitHub</b></a> &nbsp;·&nbsp;
   <a href="mailto:masterkain@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://x.com/masterkain"><b>X</b></a> &nbsp;·&nbsp;
