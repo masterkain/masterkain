@@ -25,8 +25,6 @@
 
 I'm **Kain** (Claudio Poli), founder of **[iCoreTech, Inc.](https://github.com/icoretech)**, a small studio building media platforms, infrastructure tools and carefully shipped software since 2009.
 
-I work across Ruby, TypeScript, Go, Swift, Elixir, Python, Objective-C and Terraform, on Kubernetes and GitOps, and I still write the code.
-
 Open to conversations about senior engineering and technical leadership work. Email is the fastest way to reach me.
 
 <br>
