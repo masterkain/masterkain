@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. The iCoreTech bot sits at the core while 8 open-source projects orbit it: codex-pooler, airbroke, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 733 GitHub stars, 7,979 commits in the last 52 weeks.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. The iCoreTech bot sits at the core while 8 open-source projects orbit it: codex-pooler, airbroke, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 733 GitHub stars on iCoreTech&#x27;s repositories, 21,448 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. The iCoreTech bot sits at the core while 8 open-source projects orbit it: codex-pooler, airbroke, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 733 GitHub stars, 7,979 commits in the last 52 weeks.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. The iCoreTech bot sits at the core while 8 open-source projects orbit it: codex-pooler, airbroke, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 733 GitHub stars on iCoreTech&#x27;s repositories, 21,448 GitHub contributions in the last year.">
 </picture>
 </a>
 
