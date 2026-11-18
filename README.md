@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,685 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,697 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,685 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,697 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -46,28 +46,28 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/codex-pooler#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-light-mobile.svg">
-  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,761 commits, 177 releases, latest v0.16.3.">
+  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,762 commits, 177 releases, latest v0.16.3.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/codex-pooler#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-dark-mobile.svg">
-  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,761 commits, 177 releases, latest v0.16.3.">
+  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,762 commits, 177 releases, latest v0.16.3.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-light-mobile.svg">
-  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 2,716 commits, 138 releases, latest v1.4.11.">
+  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 2,718 commits, 138 releases, latest v1.4.11.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-dark-mobile.svg">
-  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 2,716 commits, 138 releases, latest v1.4.11.">
+  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 2,718 commits, 138 releases, latest v1.4.11.">
 </picture>
 </a>
 
@@ -169,7 +169,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 </picture>
 </a>
 
-<p align="center"><b>Try them live&nbsp;→</b>&nbsp; <a href="https://codex-pooler.com">codex-pooler.com</a> &nbsp;·&nbsp; <a href="https://icoretech.github.io/helm">icoretech.github.io/helm</a></p>
+<p align="center"><b>Try them live&nbsp;→</b>&nbsp; <a href="https://codex-pooler.com">codex-pooler.com</a> &nbsp;·&nbsp; <a href="https://airbroke.icorete.ch">airbroke.icorete.ch</a> &nbsp;·&nbsp; <a href="https://icoretech.github.io/helm">icoretech.github.io/helm</a></p>
 
 <details>
 <summary><b>All 31 public iCoreTech repositories</b></summary>
@@ -177,13 +177,13 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 
 | Project | What it is | Stars | Commits | Releases |
 | :--- | :--- | ---: | ---: | ---: |
-| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,761 | 177 |
-| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 2,716 | 138 |
+| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,762 | 177 |
+| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 2,718 | 138 |
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,147 | 774 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 30 | 455 | 92 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 526 | 27 |
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 359 | 28 |
-| [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 14 | 175 | 70 |
+| [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 14 | 177 | 71 |
 | [spotify-client](https://github.com/icoretech/spotify-client) 🪐 | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | 76 | 4 |
 | [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) 🪐 | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | 118 | 17 |
 | [omniauth-spotify](https://github.com/icoretech/omniauth-spotify) | OmniAuth strategy for Spotify. Drop-in OAuth 2.0 for Rails. | 65 | 48 | 0 |
