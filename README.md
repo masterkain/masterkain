@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,720 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,749 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,720 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,749 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -46,42 +46,42 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/codex-pooler#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-light-mobile.svg">
-  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,763 commits, 177 releases, latest v0.16.3.">
+  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,764 commits, 177 releases, latest v0.16.3.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/codex-pooler#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-dark-mobile.svg">
-  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,763 commits, 177 releases, latest v0.16.3.">
+  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,764 commits, 177 releases, latest v0.16.3.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-light-mobile.svg">
-  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,562 commits, 138 releases, latest v1.4.11.">
+  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,572 commits, 139 releases, latest v1.4.12.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-dark-mobile.svg">
-  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,562 commits, 138 releases, latest v1.4.11.">
+  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,572 commits, 139 releases, latest v1.4.12.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/nod#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/nod-light-mobile.svg">
-  <img src="assets/projects/nod-light.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 5 commits, 1 releases, latest v0.1.1.">
+  <img src="assets/projects/nod-light.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 6 commits, 1 releases, latest v0.1.1.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/nod#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/nod-dark-mobile.svg">
-  <img src="assets/projects/nod-dark.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 5 commits, 1 releases, latest v0.1.1.">
+  <img src="assets/projects/nod-dark.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 6 commits, 1 releases, latest v0.1.1.">
 </picture>
 </a>
 
@@ -144,28 +144,28 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/mattermost-timeline#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-light-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 359 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 360 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-timeline#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-dark-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 359 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 360 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-voice-messages#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-voice-messages-light-mobile.svg">
-  <img src="assets/projects/mattermost-voice-messages-light.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 118 commits, 17 releases, latest v0.3.8.">
+  <img src="assets/projects/mattermost-voice-messages-light.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 119 commits, 17 releases, latest v0.3.8.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-voice-messages#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-voice-messages-dark-mobile.svg">
-  <img src="assets/projects/mattermost-voice-messages-dark.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 118 commits, 17 releases, latest v0.3.8.">
+  <img src="assets/projects/mattermost-voice-messages-dark.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 119 commits, 17 releases, latest v0.3.8.">
 </picture>
 </a>
 
@@ -177,15 +177,15 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 
 | Project | What it is | Stars | Commits | Releases |
 | :--- | :--- | ---: | ---: | ---: |
-| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,763 | 177 |
-| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,562 | 138 |
+| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,764 | 177 |
+| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,572 | 139 |
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,147 | 774 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 30 | 455 | 92 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 526 | 27 |
-| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 359 | 28 |
+| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 360 | 28 |
 | [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 14 | 177 | 71 |
 | [spotify-client](https://github.com/icoretech/spotify-client) 🪐 | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | 76 | 4 |
-| [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) 🪐 | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | 118 | 17 |
+| [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) 🪐 | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | 119 | 17 |
 | [omniauth-spotify](https://github.com/icoretech/omniauth-spotify) | OmniAuth strategy for Spotify. Drop-in OAuth 2.0 for Rails. | 65 | 48 | 0 |
 | [autopathcomment](https://github.com/icoretech/autopathcomment) | Automatically comment on PRs that touch flagged paths. | 1 | 221 | 5 |
 | [codex-docker](https://github.com/icoretech/codex-docker) | OpenAI Codex CLI Docker images for repeatable agent automation. | 10 | 115 | 0 |
@@ -203,12 +203,12 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [omniauth-google2](https://github.com/icoretech/omniauth-google2) | 🔌 OmniAuth strategy for Google OAuth2/OpenID Connect authentication | 0 | 15 | 0 |
 | [omniauth-facebook2](https://github.com/icoretech/omniauth-facebook2) | 🔌 OmniAuth strategy for Facebook OAuth2 authentication | 0 | 13 | 0 |
 | [omniauth-soundcloud2](https://github.com/icoretech/omniauth-soundcloud2) | 🔌 OmniAuth strategy for SoundCloud OAuth2 authentication | 0 | 10 | 0 |
+| [nod](https://github.com/icoretech/nod) 🪐 | A browser extension for X: see who follows you, right beside each post. | 0 | 6 | 1 |
 | [eeevp](https://github.com/icoretech/eeevp) | 🔐 Zero-trust streaming concept with browser-side video encryption, built for Synteq Hackathon 2026. | 0 | 8 | 0 |
-| [nod](https://github.com/icoretech/nod) 🪐 | A browser extension for X: see who follows you, right beside each post. | 0 | 5 | 1 |
 | [motion-glass-catalog](https://github.com/icoretech/motion-glass-catalog) | Machine-readable model + pricing catalog for Motion Glass | 0 | 5 | 0 |
 | [omniauth-slack2](https://github.com/icoretech/omniauth-slack2) | 🔌 OmniAuth strategy for Slack OpenID Connect authentication | 0 | 4 | 0 |
 
-<sub>Commits count every author on the default branch. Releases are published GitHub releases, prereleases included. Updated 2026-11-18.</sub>
+<sub>Commits count every author on the default branch. Releases are published GitHub releases, prereleases included. Updated 2026-11-19.</sub>
 
 </details>
 
