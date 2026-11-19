@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,758 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,757 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,758 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 749 GitHub stars on iCoreTech&#x27;s repositories, 21,757 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -74,14 +74,14 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/nod#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/nod-light-mobile.svg">
-  <img src="assets/projects/nod-light.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 6 commits, 1 releases, latest v0.1.1.">
+  <img src="assets/projects/nod-light.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 8 commits, 1 releases, latest v0.1.1.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/nod#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/nod-dark-mobile.svg">
-  <img src="assets/projects/nod-dark.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 6 commits, 1 releases, latest v0.1.1.">
+  <img src="assets/projects/nod-dark.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 8 commits, 1 releases, latest v0.1.1.">
 </picture>
 </a>
 
@@ -172,7 +172,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <p align="center"><b>Try them live&nbsp;→</b>&nbsp; <a href="https://codex-pooler.com">codex-pooler.com</a> &nbsp;·&nbsp; <a href="https://airbroke.icorete.ch">airbroke.icorete.ch</a> &nbsp;·&nbsp; <a href="https://icoretech.github.io/helm">icoretech.github.io/helm</a></p>
 
 <details>
-<summary><b>All 30 public iCoreTech repositories</b></summary>
+<summary><b>All 31 public iCoreTech repositories</b></summary>
 <br>
 
 | Project | What it is | Stars | Commits | Releases |
@@ -202,10 +202,11 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [omniauth-box2](https://github.com/icoretech/omniauth-box2) | 🔌 OmniAuth strategy for Box OAuth2 authentication | 0 | 15 | 0 |
 | [omniauth-google2](https://github.com/icoretech/omniauth-google2) | 🔌 OmniAuth strategy for Google OAuth2/OpenID Connect authentication | 0 | 15 | 0 |
 | [omniauth-facebook2](https://github.com/icoretech/omniauth-facebook2) | 🔌 OmniAuth strategy for Facebook OAuth2 authentication | 0 | 13 | 0 |
+| [nod](https://github.com/icoretech/nod) 🪐 | A browser extension for X: see who follows you, right beside each post. | 0 | 8 | 1 |
 | [omniauth-soundcloud2](https://github.com/icoretech/omniauth-soundcloud2) | 🔌 OmniAuth strategy for SoundCloud OAuth2 authentication | 0 | 10 | 0 |
-| [nod](https://github.com/icoretech/nod) 🪐 | A browser extension for X: see who follows you, right beside each post. | 0 | 6 | 1 |
 | [eeevp](https://github.com/icoretech/eeevp) | 🔐 Zero-trust streaming concept with browser-side video encryption, built for Synteq Hackathon 2026. | 0 | 8 | 0 |
 | [motion-glass-catalog](https://github.com/icoretech/motion-glass-catalog) | Machine-readable model + pricing catalog for Motion Glass | 0 | 5 | 0 |
+| [youtube-not-interested](https://github.com/icoretech/youtube-not-interested) | ⛔️ Right-click a YouTube thumbnail to mark the video Not interested (LibreWolf/Firefox extension) | 0 | 3 | 1 |
 | [omniauth-slack2](https://github.com/icoretech/omniauth-slack2) | 🔌 OmniAuth strategy for Slack OpenID Connect authentication | 0 | 4 | 0 |
 
 <sub>Commits count every author on the default branch. Releases are published GitHub releases, prereleases included. Updated 2026-11-19.</sub>
