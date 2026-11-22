@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 750 GitHub stars on iCoreTech&#x27;s repositories, 21,927 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 750 GitHub stars on iCoreTech&#x27;s repositories, 21,947 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 750 GitHub stars on iCoreTech&#x27;s repositories, 21,927 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 750 GitHub stars on iCoreTech&#x27;s repositories, 21,947 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -102,14 +102,14 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/wootty#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/wootty-light-mobile.svg">
-  <img src="assets/projects/wootty-light.svg" width="100%" alt="wootty: A browser terminal for shells, coding agents and long-running work. 32 stars, 530 commits, 27 releases, latest v0.3.2.">
+  <img src="assets/projects/wootty-light.svg" width="100%" alt="wootty: A browser terminal for shells, coding agents and long-running work. 32 stars, 531 commits, 27 releases, latest v0.3.2.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/wootty#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/wootty-dark-mobile.svg">
-  <img src="assets/projects/wootty-dark.svg" width="100%" alt="wootty: A browser terminal for shells, coding agents and long-running work. 32 stars, 530 commits, 27 releases, latest v0.3.2.">
+  <img src="assets/projects/wootty-dark.svg" width="100%" alt="wootty: A browser terminal for shells, coding agents and long-running work. 32 stars, 531 commits, 27 releases, latest v0.3.2.">
 </picture>
 </a>
 
@@ -181,7 +181,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,579 | 139 |
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,156 | 783 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 30 | 456 | 92 |
-| [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 530 | 27 |
+| [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 531 | 27 |
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 362 | 28 |
 | [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 15 | 179 | 72 |
 | [spotify-client](https://github.com/icoretech/spotify-client) 🪐 | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | 76 | 4 |
@@ -209,7 +209,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [motion-glass-catalog](https://github.com/icoretech/motion-glass-catalog) | Machine-readable model + pricing catalog for Motion Glass | 0 | 5 | 0 |
 | [omniauth-slack2](https://github.com/icoretech/omniauth-slack2) | 🔌 OmniAuth strategy for Slack OpenID Connect authentication | 0 | 4 | 0 |
 
-<sub>Commits count every author on the default branch. Releases are published GitHub releases, prereleases included. Updated 2026-11-21.</sub>
+<sub>Commits count every author on the default branch. Releases are published GitHub releases, prereleases included. Updated 2026-11-22.</sub>
 
 </details>
 
