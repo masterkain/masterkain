@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 753 GitHub stars on iCoreTech&#x27;s repositories, 21,783 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 753 GitHub stars on iCoreTech&#x27;s repositories, 21,785 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 753 GitHub stars on iCoreTech&#x27;s repositories, 21,783 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 753 GitHub stars on iCoreTech&#x27;s repositories, 21,785 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -144,14 +144,14 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/mattermost-timeline#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-light-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 362 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 364 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-timeline#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-dark-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 362 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 364 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
@@ -182,7 +182,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,156 | 783 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 33 | 461 | 95 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 531 | 27 |
-| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 362 | 28 |
+| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 364 | 28 |
 | [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 15 | 179 | 72 |
 | [spotify-client](https://github.com/icoretech/spotify-client) 🪐 | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | 76 | 4 |
 | [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) 🪐 | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | 119 | 17 |
