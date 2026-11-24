@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,995 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,998 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,995 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,998 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -206,7 +206,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [omniauth-facebook2](https://github.com/icoretech/omniauth-facebook2) | 🔌 OmniAuth strategy for Facebook OAuth2 authentication | 0 | 13 | 0 |
 | [omniauth-soundcloud2](https://github.com/icoretech/omniauth-soundcloud2) | 🔌 OmniAuth strategy for SoundCloud OAuth2 authentication | 0 | 10 | 0 |
 | [eeevp](https://github.com/icoretech/eeevp) | 🔐 Zero-trust streaming concept with browser-side video encryption, built for Synteq Hackathon 2026. | 0 | 8 | 0 |
-| [motion-glass-catalog](https://github.com/icoretech/motion-glass-catalog) | Machine-readable model + pricing catalog for Motion Glass | 0 | 5 | 0 |
+| [motion-glass-catalog](https://github.com/icoretech/motion-glass-catalog) | Machine-readable model + pricing catalog for Motion Glass | 0 | 6 | 0 |
 | [omniauth-slack2](https://github.com/icoretech/omniauth-slack2) | 🔌 OmniAuth strategy for Slack OpenID Connect authentication | 0 | 4 | 0 |
 
 <sub>Commits count every author on the default branch. Releases are published GitHub releases, prereleases included. Updated 2026-11-24.</sub>
