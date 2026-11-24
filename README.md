@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,925 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,944 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,925 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 21,944 GitHub contributions in the last year.">
 </picture>
 </a>
 
