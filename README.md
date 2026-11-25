@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 22,048 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 22,067 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 22,048 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 754 GitHub stars on iCoreTech&#x27;s repositories, 22,067 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -46,28 +46,28 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/codex-pooler#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-light-mobile.svg">
-  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 244 stars, 4,806 commits, 182 releases, latest v0.17.0.">
+  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 244 stars, 4,809 commits, 182 releases, latest v0.17.0.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/codex-pooler#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-dark-mobile.svg">
-  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 244 stars, 4,806 commits, 182 releases, latest v0.17.0.">
+  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 244 stars, 4,809 commits, 182 releases, latest v0.17.0.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-light-mobile.svg">
-  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,584 commits, 139 releases, latest v1.4.12.">
+  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,585 commits, 139 releases, latest v1.4.12.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-dark-mobile.svg">
-  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,584 commits, 139 releases, latest v1.4.12.">
+  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,585 commits, 139 releases, latest v1.4.12.">
 </picture>
 </a>
 
@@ -144,14 +144,14 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/mattermost-timeline#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-light-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 365 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 367 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-timeline#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-dark-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 365 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 367 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
@@ -177,12 +177,12 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 
 | Project | What it is | Stars | Commits | Releases |
 | :--- | :--- | ---: | ---: | ---: |
-| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 244 | 4,806 | 182 |
-| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,584 | 139 |
+| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 244 | 4,809 | 182 |
+| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,585 | 139 |
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,162 | 789 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 33 | 465 | 97 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 533 | 27 |
-| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 365 | 28 |
+| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 367 | 28 |
 | [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 16 | 181 | 73 |
 | [spotify-client](https://github.com/icoretech/spotify-client) 🪐 | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | 76 | 4 |
 | [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) 🪐 | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | 122 | 17 |
@@ -190,7 +190,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [autopathcomment](https://github.com/icoretech/autopathcomment) | Automatically comment on PRs that touch flagged paths. | 1 | 223 | 5 |
 | [codex-docker](https://github.com/icoretech/codex-docker) | OpenAI Codex CLI Docker images for repeatable agent automation. | 11 | 117 | 0 |
 | [rack-strip-cookies](https://github.com/icoretech/rack-strip-cookies) | Strip cookies from requests before they reach your Rack app. | 7 | 89 | 1 |
-| [openai-json-pricing](https://github.com/icoretech/openai-json-pricing) | OpenAI model pricing as machine-readable JSON. | 1 | 89 | 0 |
+| [openai-json-pricing](https://github.com/icoretech/openai-json-pricing) | OpenAI model pricing as machine-readable JSON. | 1 | 91 | 0 |
 | [pgbouncer-docker](https://github.com/icoretech/pgbouncer-docker) | 🐳 Multi-arch PgBouncer Docker image built from official upstream releases (amd64/arm64) | 3 | 38 | 0 |
 | [omniauth-dropbox2](https://github.com/icoretech/omniauth-dropbox2) | 🔌 OmniAuth strategy for Dropbox OAuth2 authentication | 2 | 32 | 0 |
 | [omniauth-twitchtv2](https://github.com/icoretech/omniauth-twitchtv2) | 🔌 OmniAuth strategy for Twitch OAuth2 authentication | 0 | 52 | 0 |
