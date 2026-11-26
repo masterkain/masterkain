@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,149 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,159 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,149 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,159 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -116,14 +116,14 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/warden-mcp#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/warden-mcp-light-mobile.svg">
-  <img src="assets/projects/warden-mcp-light.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 34 stars, 468 commits, 98 releases, latest v0.2.78.">
+  <img src="assets/projects/warden-mcp-light.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 34 stars, 471 commits, 100 releases.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/warden-mcp#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/warden-mcp-dark-mobile.svg">
-  <img src="assets/projects/warden-mcp-dark.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 34 stars, 468 commits, 98 releases, latest v0.2.78.">
+  <img src="assets/projects/warden-mcp-dark.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 34 stars, 471 commits, 100 releases.">
 </picture>
 </a>
 
@@ -180,7 +180,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,810 | 182 |
 | [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,588 | 139 |
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,170 | 794 |
-| [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 34 | 468 | 98 |
+| [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 34 | 471 | 100 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 537 | 27 |
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 371 | 28 |
 | [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 16 | 181 | 73 |
