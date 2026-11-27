@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,226 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,243 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,226 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,243 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -88,14 +88,14 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/helm#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/helm-light-mobile.svg">
-  <img src="assets/projects/helm-light.svg" width="100%" alt="helm: The iCoreTech Helm charts: opinionated Kubernetes deployments. 18 stars, 1,171 commits, 795 releases.">
+  <img src="assets/projects/helm-light.svg" width="100%" alt="helm: The iCoreTech Helm charts: opinionated Kubernetes deployments. 18 stars, 1,172 commits, 796 releases.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/helm#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/helm-dark-mobile.svg">
-  <img src="assets/projects/helm-dark.svg" width="100%" alt="helm: The iCoreTech Helm charts: opinionated Kubernetes deployments. 18 stars, 1,171 commits, 795 releases.">
+  <img src="assets/projects/helm-dark.svg" width="100%" alt="helm: The iCoreTech Helm charts: opinionated Kubernetes deployments. 18 stars, 1,172 commits, 796 releases.">
 </picture>
 </a>
 
@@ -179,7 +179,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | :--- | :--- | ---: | ---: | ---: |
 | [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,811 | 182 |
 | [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,593 | 139 |
-| [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,171 | 795 |
+| [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,172 | 796 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 34 | 473 | 101 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 542 | 27 |
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 375 | 28 |
