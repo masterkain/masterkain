@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,243 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,278 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 756 GitHub stars on iCoreTech&#x27;s repositories, 22,243 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,278 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -46,28 +46,28 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/codex-pooler#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-light-mobile.svg">
-  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,811 commits, 182 releases, latest v0.17.0.">
+  <img src="assets/projects/codex-pooler-light.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,818 commits, 182 releases, latest v0.17.0.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/codex-pooler#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/codex-pooler-dark-mobile.svg">
-  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,811 commits, 182 releases, latest v0.17.0.">
+  <img src="assets/projects/codex-pooler-dark.svg" width="100%" alt="codex-pooler: The self-hosted Codex gateway for teams, agents and you. 245 stars, 4,818 commits, 182 releases, latest v0.17.0.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-light-mobile.svg">
-  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,593 commits, 139 releases, latest v1.4.12.">
+  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,599 commits, 139 releases, latest v1.4.12.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-dark-mobile.svg">
-  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,593 commits, 139 releases, latest v1.4.12.">
+  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,599 commits, 139 releases, latest v1.4.12.">
 </picture>
 </a>
 
@@ -116,14 +116,14 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/warden-mcp#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/warden-mcp-light-mobile.svg">
-  <img src="assets/projects/warden-mcp-light.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 34 stars, 473 commits, 101 releases.">
+  <img src="assets/projects/warden-mcp-light.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 35 stars, 477 commits, 103 releases.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/warden-mcp#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/warden-mcp-dark-mobile.svg">
-  <img src="assets/projects/warden-mcp-dark.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 34 stars, 473 commits, 101 releases.">
+  <img src="assets/projects/warden-mcp-dark.svg" width="100%" alt="warden-mcp: Vaultwarden / Bitwarden MCP server for credential-aware AI agents. 35 stars, 477 commits, 103 releases.">
 </picture>
 </a>
 
@@ -144,28 +144,28 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/mattermost-timeline#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-light-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 375 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-light.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 377 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-timeline#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-timeline-dark-mobile.svg">
-  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 375 commits, 28 releases, latest v2.2.2.">
+  <img src="assets/projects/mattermost-timeline-dark.svg" width="100%" alt="mattermost-timeline: Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. 11 stars, 377 commits, 28 releases, latest v2.2.2.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-voice-messages#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-voice-messages-light-mobile.svg">
-  <img src="assets/projects/mattermost-voice-messages-light.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 127 commits, 17 releases, latest v0.3.8.">
+  <img src="assets/projects/mattermost-voice-messages-light.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 129 commits, 17 releases, latest v0.3.8.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/mattermost-voice-messages#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/mattermost-voice-messages-dark-mobile.svg">
-  <img src="assets/projects/mattermost-voice-messages-dark.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 127 commits, 17 releases, latest v0.3.8.">
+  <img src="assets/projects/mattermost-voice-messages-dark.svg" width="100%" alt="mattermost-voice-messages: WhatsApp-style voice messages for Mattermost channels and threads. 10 stars, 129 commits, 17 releases, latest v0.3.8.">
 </picture>
 </a>
 
@@ -177,15 +177,15 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 
 | Project | What it is | Stars | Commits | Releases |
 | :--- | :--- | ---: | ---: | ---: |
-| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,811 | 182 |
-| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,593 | 139 |
+| [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,818 | 182 |
+| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,599 | 139 |
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,172 | 796 |
-| [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 34 | 473 | 101 |
+| [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 35 | 477 | 103 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 542 | 27 |
-| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 375 | 28 |
+| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) 🪐 | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | 377 | 28 |
 | [codex-action](https://github.com/icoretech/codex-action) | Run OpenAI Codex CLI non-interactively in GitHub Actions workflows. | 16 | 181 | 73 |
 | [spotify-client](https://github.com/icoretech/spotify-client) 🪐 | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | 76 | 4 |
-| [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) 🪐 | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | 127 | 17 |
+| [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) 🪐 | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | 129 | 17 |
 | [omniauth-spotify](https://github.com/icoretech/omniauth-spotify) | OmniAuth strategy for Spotify. Drop-in OAuth 2.0 for Rails. | 65 | 48 | 0 |
 | [autopathcomment](https://github.com/icoretech/autopathcomment) | Automatically comment on PRs that touch flagged paths. | 1 | 223 | 5 |
 | [codex-docker](https://github.com/icoretech/codex-docker) | OpenAI Codex CLI Docker images for repeatable agent automation. | 11 | 117 | 0 |
