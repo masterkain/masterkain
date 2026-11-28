@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,333 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,343 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,333 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,343 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -60,28 +60,28 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 <a href="https://github.com/icoretech/airbroke#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-light-mobile.svg">
-  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,600 commits, 140 releases, latest v1.4.13.">
+  <img src="assets/projects/airbroke-light.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,601 commits, 140 releases, latest v1.4.13.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/airbroke#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/airbroke-dark-mobile.svg">
-  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,600 commits, 140 releases, latest v1.4.13.">
+  <img src="assets/projects/airbroke-dark.svg" width="100%" alt="airbroke: Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. 221 stars, 3,601 commits, 140 releases, latest v1.4.13.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/nod#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/nod-light-mobile.svg">
-  <img src="assets/projects/nod-light.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 23 commits, 2 releases, latest v0.2.0.">
+  <img src="assets/projects/nod-light.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 24 commits, 2 releases, latest v0.2.0.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech/nod#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/projects/nod-dark-mobile.svg">
-  <img src="assets/projects/nod-dark.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 23 commits, 2 releases, latest v0.2.0.">
+  <img src="assets/projects/nod-dark.svg" width="100%" alt="nod: A browser extension for X: see who follows you, right beside each post. 0 stars, 24 commits, 2 releases, latest v0.2.0.">
 </picture>
 </a>
 
@@ -178,7 +178,7 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | Project | What it is | Stars | Commits | Releases |
 | :--- | :--- | ---: | ---: | ---: |
 | [codex-pooler](https://github.com/icoretech/codex-pooler) 🪐 | The self-hosted Codex gateway for teams, agents and you. | 245 | 4,823 | 183 |
-| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,600 | 140 |
+| [airbroke](https://github.com/icoretech/airbroke) 🪐 | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | 3,601 | 140 |
 | [helm](https://github.com/icoretech/helm) 🪐 | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | 1,175 | 799 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) 🪐 | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 35 | 483 | 105 |
 | [wootty](https://github.com/icoretech/wootty) 🪐 | A browser terminal for shells, coding agents and long-running work. | 32 | 544 | 27 |
@@ -194,11 +194,11 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [pgbouncer-docker](https://github.com/icoretech/pgbouncer-docker) | 🐳 Multi-arch PgBouncer Docker image built from official upstream releases (amd64/arm64) | 3 | 38 | 0 |
 | [omniauth-dropbox2](https://github.com/icoretech/omniauth-dropbox2) | 🔌 OmniAuth strategy for Dropbox OAuth2 authentication | 2 | 32 | 0 |
 | [omniauth-twitchtv2](https://github.com/icoretech/omniauth-twitchtv2) | 🔌 OmniAuth strategy for Twitch OAuth2 authentication | 0 | 52 | 0 |
-| [nod](https://github.com/icoretech/nod) 🪐 | A browser extension for X: see who follows you, right beside each post. | 0 | 23 | 2 |
+| [nod](https://github.com/icoretech/nod) 🪐 | A browser extension for X: see who follows you, right beside each post. | 0 | 24 | 2 |
 | [bitwarden-cli-docker](https://github.com/icoretech/bitwarden-cli-docker) | 🐳 Bitwarden CLI Docker image built from official upstream releases | 0 | 36 | 0 |
 | [omniauth-lastfm](https://github.com/icoretech/omniauth-lastfm) | 🔌 OmniAuth strategy for Last.fm OAuth authentication | 0 | 34 | 0 |
 | [activerecord-s3-bucket-name-validator](https://github.com/icoretech/activerecord-s3-bucket-name-validator) | 💎 ActiveModel validator for Amazon S3 bucket names (general, directory, S3 Tables, S3 Vectors) with i18n | 0 | 14 | 2 |
-| [youtube-not-interested](https://github.com/icoretech/youtube-not-interested) | ⛔️ Right-click a YouTube thumbnail to mark the video Not interested (LibreWolf/Firefox extension) | 0 | 15 | 1 |
+| [youtube-not-interested](https://github.com/icoretech/youtube-not-interested) | ⛔️ Right-click a YouTube thumbnail to mark the video Not interested (LibreWolf/Firefox extension) | 0 | 16 | 1 |
 | [omniauth-microsoft-identity2](https://github.com/icoretech/omniauth-microsoft-identity2) | 🔌 OmniAuth strategy for Microsoft Identity (Entra ID) OAuth2/OpenID Connect authentication | 0 | 16 | 0 |
 | [omniauth-apple2](https://github.com/icoretech/omniauth-apple2) | 🔌 OmniAuth OAuth2 strategy for Sign in with Apple | 0 | 15 | 0 |
 | [omniauth-box2](https://github.com/icoretech/omniauth-box2) | 🔌 OmniAuth strategy for Box OAuth2 authentication | 0 | 15 | 0 |
