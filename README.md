@@ -1,14 +1,14 @@
 <a href="https://github.com/masterkain#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-light-mobile.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,386 GitHub contributions in the last year.">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,400 GitHub contributions in the last year.">
 </picture>
 </a>
 
 <a href="https://github.com/masterkain#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/hero-dark-mobile.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,386 GitHub contributions in the last year.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Hi, I&#x27;m Kain, founder of iCoreTech. 9 open-source projects orbit him: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages. 757 GitHub stars on iCoreTech&#x27;s repositories, 22,400 GitHub contributions in the last year.">
 </picture>
 </a>
 
@@ -197,8 +197,8 @@ Nine open-source projects from [iCoreTech](https://github.com/icoretech), each w
 | [nod](https://github.com/icoretech/nod) 🪐 | A browser extension for X: see who follows you, right beside each post. | 0 | 25 | 2 |
 | [bitwarden-cli-docker](https://github.com/icoretech/bitwarden-cli-docker) | 🐳 Bitwarden CLI Docker image built from official upstream releases | 0 | 36 | 0 |
 | [omniauth-lastfm](https://github.com/icoretech/omniauth-lastfm) | 🔌 OmniAuth strategy for Last.fm OAuth authentication | 0 | 34 | 0 |
+| [youtube-not-interested](https://github.com/icoretech/youtube-not-interested) | ⛔️ Right-click a YouTube thumbnail to mark the video Not interested (LibreWolf/Firefox extension) | 0 | 17 | 1 |
 | [activerecord-s3-bucket-name-validator](https://github.com/icoretech/activerecord-s3-bucket-name-validator) | 💎 ActiveModel validator for Amazon S3 bucket names (general, directory, S3 Tables, S3 Vectors) with i18n | 0 | 14 | 2 |
-| [youtube-not-interested](https://github.com/icoretech/youtube-not-interested) | ⛔️ Right-click a YouTube thumbnail to mark the video Not interested (LibreWolf/Firefox extension) | 0 | 16 | 1 |
 | [omniauth-microsoft-identity2](https://github.com/icoretech/omniauth-microsoft-identity2) | 🔌 OmniAuth strategy for Microsoft Identity (Entra ID) OAuth2/OpenID Connect authentication | 0 | 16 | 0 |
 | [omniauth-apple2](https://github.com/icoretech/omniauth-apple2) | 🔌 OmniAuth OAuth2 strategy for Sign in with Apple | 0 | 15 | 0 |
 | [omniauth-box2](https://github.com/icoretech/omniauth-box2) | 🔌 OmniAuth strategy for Box OAuth2 authentication | 0 | 15 | 0 |
